@@ -45,3 +45,4 @@ The application allows users to input wine parameters and instantly receive a **
 - User-friendly interface  
 - Real-time wine quality prediction  
 - Inp
+
