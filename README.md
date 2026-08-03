@@ -6,10 +6,8 @@ A Machine Learning project that predicts the quality of wine based on its physic
 
 ## 📌 Project Overview
 
-Wine quality depends on several chemical factors such as acidity, alcohol content, sulphates, and pH.  
-This project applies **machine learning techniques** to analyze these features and predict wine quality accurately.
+Wine quality is traditionally determined through sensory evaluation by experts, which is both time-consuming and subjective. This project uses Machine Learning to predict wine quality automatically from its chemical characteristics.
 
-The application allows users to input wine parameters and instantly receive a **quality prediction**.
+The model learns patterns from historical wine data and predicts the quality score for new wine samples.
 
-
-
+---
