@@ -11,3 +11,14 @@ Wine quality is traditionally determined through sensory evaluation by experts, 
 The model learns patterns from historical wine data and predicts the quality score for new wine samples.
 
 ---
+## 🚀 Features
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature correlation analysis
+- Model training using Machine Learning algorithms
+- Model evaluation using performance metrics
+- Predict wine quality for unseen data
+- Easy-to-understand Jupyter Notebook implementation
+
+---
