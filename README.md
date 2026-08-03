@@ -33,3 +33,14 @@ The model learns patterns from historical wine data and predicts the quality sco
 - Scikit-learn
 
 ---
+
+## 📂 Project Structure
+
+```
+wine_quality_prediction/
+│
+├── Wine_Quality_Prediction.ipynb
+├── winequality.csv
+├── README.md
+└── requirements.txt (optional)
+```
