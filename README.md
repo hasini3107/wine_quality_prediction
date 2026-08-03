@@ -1,6 +1,6 @@
 # 🍷 Wine Quality Prediction
 
-A Machine Learning project that predicts the **quality of red wine** based on its physicochemical properties using a trained **Random Forest model** and an interactive **Streamlit web application**.
+A Machine Learning project that predicts the quality of wine based on its physicochemical properties such as acidity, alcohol content, pH, sulphates, and other chemical features. This project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction.
 
 ---
 
