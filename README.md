@@ -22,3 +22,14 @@ The model learns patterns from historical wine data and predicts the quality sco
 - Easy-to-understand Jupyter Notebook implementation
 
 ---
+## 🛠️ Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
